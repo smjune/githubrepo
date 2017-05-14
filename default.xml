@@ -1,6 +1,6 @@
 <Manifest>
 <remote name="origin" fetch="."/>
 <default revision="master" remote="origin"/>
-    <project path="hello" name="Hello_world"/>
-    <project path="test" name="test_source"/>
+    <project path="hello" name="smjunem/Hello_world"/>
+    <project path="test" name="smjune/test_source"/>
 </manifest>
