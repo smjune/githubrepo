@@ -2,6 +2,6 @@
 <manifest>
 <remote name="origin" fetch="."/>
 <default revision="master" remote="origin"/>
-    <project path="hello" name="smjune/Hello_world"/>
-    <project path="test" name="smjune/test_source"/>
+    <project path="hello" name="smjune@naver.com/Hello_world"/>
+    <project path="test" name="smjune@naver.com/test_source"/>
 </manifest>
