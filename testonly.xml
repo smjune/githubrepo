@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <remote name="origin" fetch="."/>
-<default revision="main" remote="origin"/>
-    <project path="hello" name="Hello_world"/>
+<default revision="master" remote="origin"/>
+    <project path="hello" name="Hello_world" revision="togithub/>
 </manifest>
